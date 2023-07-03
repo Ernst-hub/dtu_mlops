@@ -8,7 +8,11 @@
   <img src="figures/mlops_cycle.png" width="1000">
 </p>
 
+<<<<<<< HEAD
 ## ℹ️ Course information (Hello World)
+=======
+## ℹ️ Course information (hello world)
+>>>>>>> 38e99dbb07d1a4cbbb8783f592d4a47f87a23a04
 
 * Course responsible
     * Postdoc [Nicki Skafte Detlefsen](https://skaftenicki.github.io/), nsde@dtu.dk
